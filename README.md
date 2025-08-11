@@ -1,4 +1,4 @@
-🎬 **IMDB Clone**
+# *🎬 IMDB Clone*
 Tagline: A simple IMDB-like movie browser built with React, Vite, Tailwind CSS, and the TMDB API.
 
 📖 **Description**
