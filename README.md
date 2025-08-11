@@ -1,7 +1,7 @@
-# *🎬 IMDB Clone*
+# **🎬 IMDB Clone**
 Tagline: A simple IMDB-like movie browser built with React, Vite, Tailwind CSS, and the TMDB API.
 
-📖 **Description**
+## **📖 Description**
 This IMDB Clone is a front-end web app that allows users to browse top-rated movies using The Movie Database (TMDB) API.
 It’s built with modern tools — React (JavaScript) for UI, Vite for fast development, Tailwind CSS for styling, and ESLint for code quality.
 
@@ -15,7 +15,7 @@ Add/remove movies from a personal watchlist (saved in localStorage).
 
 Enjoy a responsive and clean UI.
 
-✨ **Features**
+## **✨ Features**
 Dynamic Banner: Shows a random top-rated movie’s backdrop image.
 
 Movie Listing: Displays movie posters, titles, ratings, and more.
@@ -28,11 +28,11 @@ Fast Development: Vite dev server with hot reload.
 
 Code Quality: ESLint to keep the code clean and consistent.
 
-🧰 **Tech Stack**
+## **🧰 Tech Stack**
 Frontend	API Source	Tools
 React (JS)	TMDB API	Vite, Tailwind CSS, ESLint
 
-📁 **Project Structure**
+## **📁 Project Structure**
 src/components/ → React components like Banner, Movies, Navbar, etc.
 
 src/utility/ → Utility files like genre.js.
@@ -47,7 +47,7 @@ App.jsx → Main app component.
 
 main.jsx → Entry point.
 
-⚙️ **How to Run**
+## **⚙️ How to Run**
 -Clone the repository:
 git clone https://github.com/D4C-WOU/IMDB-Clone.git
 
@@ -64,13 +64,13 @@ npm run dev
 npm run build
 
 
-📦 **API Reference**
+## **📦 API Reference**
 TMDB API Docs
 
-👤 **Author**
+## **👤 Author**
 Nand Joshi — GitHub Profile
 
-📝 **License**
+## **📝 License**
 This project is licensed under the MIT License.
 
 
