@@ -75,4 +75,4 @@ function App() {
 
 export default App;
 
-// https://api.themoviedb.org/3/movie/top_rated?api_key=3a16a916657f3382ab440db1a0d8dd79&language=en-US&page=1
+
